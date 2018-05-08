@@ -1,5 +1,6 @@
 package com.kuzniarski
 
+import com.kuzniarski.converter.convertToWord
 import org.junit.Assert
 import org.junit.Test
 import org.junit.runner.RunWith

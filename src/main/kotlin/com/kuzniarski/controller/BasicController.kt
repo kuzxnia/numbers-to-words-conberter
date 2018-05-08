@@ -1,5 +1,6 @@
-package com.kuzniarski
+package com.kuzniarski.controller
 
+import com.kuzniarski.converter.convertToWord
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.GetMapping

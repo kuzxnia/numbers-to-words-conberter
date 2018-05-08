@@ -1,4 +1,4 @@
-package com.kuzniarski
+package com.kuzniarski.converter
 
 var TEN = 10
 var ONE_HUNDRED = 100
@@ -66,5 +66,3 @@ fun convertToWord(num: Long) : String {
     }
     return words.joinToString(separator = "")
 }
-
-fun main(args: Array<String>) = print(convertToWord(1204))
