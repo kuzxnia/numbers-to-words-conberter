@@ -38,7 +38,6 @@ You should see some output like this:
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::        (v2.0.1.RELEASE)
 
-2018-05-08 23:04:19.364  INFO 10069 --- [           main] com.kuzniarski.ApplicationKt             : Starting ApplicationKt on kuznia-Latitude-E7470 with PID 10069 (/home/kuznia/workspace/numbers-to-words-converter/build/classes/kotlin/main started by kuznia in /home/kuznia/workspace/numbers-to-words-converter)
 2018-05-08 23:04:19.368  INFO 10069 --- [           main] com.kuzniarski.ApplicationKt             : No active profile set, falling back to default profiles: default
 2018-05-08 23:04:19.450  INFO 10069 --- [           main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@ca263c2: startup date [Tue May 08 23:04:19 CEST 2018]; root of context hierarchy
 2018-05-08 23:04:19.688  WARN 10069 --- [kground-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
